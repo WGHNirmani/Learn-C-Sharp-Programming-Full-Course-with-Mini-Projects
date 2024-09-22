@@ -1,7 +1,7 @@
 using System;
 
 namespace Exercise
-{
+{ 
     class MainClass
     {
         public static void Main(string[] args)
