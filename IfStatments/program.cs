@@ -1,6 +1,6 @@
 using System;
 
-namespace ConsoleIO
+namespace IfStatments
 {
     class MainClass
     {
